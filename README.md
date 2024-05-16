@@ -2,7 +2,7 @@
 - 👀 I’m interested in industrial IoT and ethical hacking
 - 🌱 I’m currently learning industrial system cybersecurity
 - 💞️ I’m looking to collaborate on fun IoT projects
-- 📫 How to reach me --> email link in my profile
+- 📫 How to reach me --> briankwok@vts-lab.io
 - 🗃️ Public work demo --> [vehicle telemetry dashboard](http://grafana.vts-lab.io/public-dashboards/3a8c3ec425a8488fa75112151b8ff614)
 
 <!---
